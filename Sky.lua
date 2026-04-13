@@ -16,7 +16,7 @@ end
 
 local sky = Instance.new("Sky")
 
-local img = "https://raw.githubusercontent.com/idkplayzj-rgb/Skybox/main/how-does-a-supermassive-blackhole-form-jwst-found-a-v0-0oo74c29endf1.jpeg"
+local img = "https://raw.githubusercontent.com/idkplayzj-rgb/Skybox/main/sky.jpeg"
 
 sky.SkyboxBk = img
 sky.SkyboxDn = img
@@ -26,5 +26,3 @@ sky.SkyboxRt = img
 sky.SkyboxUp = img
 
 sky.Parent = Lighting
-local img = "https://raw.githubusercontent.com/idkplayzj-rgb/Skybox/main/sky.jpeg"
-
