@@ -26,3 +26,5 @@ sky.SkyboxRt = img
 sky.SkyboxUp = img
 
 sky.Parent = Lighting
+local img = "https://raw.githubusercontent.com/idkplayzj-rgb/Skybox/main/sky.jpeg"
+
